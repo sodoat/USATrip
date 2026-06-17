@@ -1,6 +1,7 @@
 USATrip Coming, more coming soon......
 
-> 本文记录出海历程：开通美国公司，银行等相关信息，如有疑问，欢迎关注X详聊（[twitter](https://twitter.com/skybytee) ）。
+
+本文记录出海历程：开通美国公司，银行等相关信息，如有疑问，欢迎关注X详聊（[twitter](https://twitter.com/skybytee) ）。
 
 
 * * *  1. 美国公司注册
