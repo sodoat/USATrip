@@ -43,4 +43,4 @@ USATrip Coming, more coming soon......
 > tip: 注册完后，会给你一个美国地址，可以收发邮件，但是需要收费，有需要的也可以购买它的扫描信件服务
 <img width="1166" height="861" alt="Screenshot 2026-06-17 at 10 48 47 AM" src="https://github.com/user-attachments/assets/df58f79a-8a23-4552-835f-9d6ff464a1c5" />
 
-花费 150 刀，耗时 1周
+花费 150 刀，耗时 1周左右，后续有任何问题，欢迎咨询，后面还有更多银行，EIN以及其他相关教程，欢迎各位关注～
