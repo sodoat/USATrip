@@ -1,4 +1,4 @@
-<img width="981" height="661" alt="Screenshot 2026-06-17 at 10 38 54 AM" src="https://github.com/user-attachments/assets/565a738f-9a35-4f51-9458-2293ef74bc18" /># USATrip
+
 > 本文记录出海历程：开通美国公司，银行等相关信息，如有疑问，欢迎关注X详聊（[twitter](https://twitter.com/skybytee) ）。
 
 
@@ -12,6 +12,8 @@
 这里我选择的是  wyoming 州注册, 因为 wyoming 免公司税和个人税，并且任何国籍也可以注册
 
 1.打开 https://www.wyomingagents.com/ 
+
+<img width="981" height="661" alt="Screenshot 2026-06-17 at 10 38 54 AM" src="https://github.com/user-attachments/assets/565a738f-9a35-4f51-9458-2293ef74bc18" /># USATrip
 
 <img width="1009" height="679" alt="Screenshot 2026-06-17 at 10 40 18 AM" src="https://github.com/user-attachments/assets/bd43938c-0888-4a09-a54d-221e83e5c3a7" />
 
